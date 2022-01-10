@@ -43,6 +43,12 @@ Conclusion:  The following code helped me cofirm that Application of Optimizatio
 * Identify the toal spent on these asteroids (this is usually less than the max budget)
 
 
+Please find attached two screenshots based on arXiv.org search results -
+* the first one indicates that knapsack problem solving is NOT being used for asteroid mining
+* the second one indicates that optimization techniques are also not yet being used to select asteroids for mining planning.
+
+arXiv.org is an open access archive of 2 Million+ scholarly articles in the fields of science, physics and so on.
+
 
 
 
